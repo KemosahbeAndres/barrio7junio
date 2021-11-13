@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/bb98a986-0ee1-4609-a5c9-458608129ef2/resourceGroups/pruebas/providers/Microsoft.Web/sites/apiandres",
+    "appService.deploySubpath": "."
+}
