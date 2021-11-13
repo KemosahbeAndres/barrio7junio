@@ -1,6 +1,6 @@
 const https = require("https")
 const app = require("express")()
-const port = 80
+const port = process.env.port || 80
 let server = https.createServer()
 app.get('/', (req, res)=>{
     res.send("Hola")
